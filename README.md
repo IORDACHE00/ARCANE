@@ -21,7 +21,7 @@ Arcane is a programming language designed to support a range of essential featur
 To use Arcane, follow these steps:
 
 1. Clone the repository or download the source code.
-2. Compile the source code using `go run main.go` or `go build` and run the 'arcane.exe`.
+2. Compile the source code using `go run main.go` or `go build` and run the `arcane.exe`.
 
 ### Running Programs
 
