@@ -46,8 +46,7 @@ log(result); # Outputs: 15
 
 Arrays can be used to store and manipulate collections of data. Here's an example of creating and using an array:
 
-`
-let users = ["John", "Jane", "Jack", "James"];
+`let users = ["John", "Jane", "Jack", "James"];
 
 log(users); #Outputs: ["John", "Jane", "Jack", "James"]
 
@@ -57,8 +56,7 @@ log(first(users)); #Outputs: "John"
 
 log(last(users)); #Outputs: "James"
 
-log(push(users, "Julian")); #Outputs: ["John", "Jane", "Jack", "James", "Julian"]
-`
+log(push(users, "Julian")); #Outputs: ["John", "Jane", "Jack", "James", "Julian"]`
 
 ### Objects
 
