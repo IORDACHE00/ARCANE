@@ -1,6 +1,6 @@
 # ARCANE Programming Language
 
-Arcane is a programming language designed to support a range of essential features including functions, arrays, closures, objects, and built-in functions like len, log, push, first, last, and rest.
+Arcane is a programming language designed to support a range of essential features including functions, arrays, closures, objects, and built-in functions like len, log, push, first, last, and rest. It is a personal project and an implementation of the Monkey programming language, recommend reading these amazing books: https://interpreterbook.com/ and https://compilerbook.com/
 
 ## Table of Contents
 
